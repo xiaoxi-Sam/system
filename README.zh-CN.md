@@ -4,7 +4,7 @@ This project is based on the implementation, utilization and exploration of a pr
 
 > [English Version](./README.md)
 
-# 📙 README.zh-CN.md （中文版）
+## 📙 README.zh-CN.md （中文版）
 
 ```markdown
 # 基于 Proxmox 的中小企业内部通信与数据管理系统
