@@ -6,7 +6,6 @@ This project is based on the implementation, utilization and exploration of a pr
 
 ## 📙 README.zh-CN.md （中文版）
 
-```markdown
 # 基于 Proxmox 的中小企业内部通信与数据管理系统
 
 本项目基于 **Proxmox VE** 虚拟化平台，整合 **Mailcow** 邮件系统与 **飞牛 NAS（FeiniuNAS）** 数据存储系统，构建一个面向中小型企业的私有通信与数据管理平台，实现**低成本、高可靠性、高可维护性**的企业级内部服务。
